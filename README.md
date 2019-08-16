@@ -74,7 +74,7 @@ cas.server.url=https://localhost:8443/cas
 con
 ```
 <filter-name>SSO CAS Filter</filter-name>
-<filter-class>net.tirasa.liferay.cas.filter.OriamCASFilter</filter-class>
+<filter-class>net.tirasa.liferay.cas.filter.MyLiferayCASFilter</filter-class>
 ```
 
 ## Custom hook
